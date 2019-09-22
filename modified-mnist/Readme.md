@@ -11,7 +11,7 @@ your program must include the following:
 
 1. Your program must set the random seeds of python and tensorflow to 1 to make sure that your results
 are reproducible.
-2. The first layer in the network must be a 4 ⇥ 4 maxpooling layer. This e↵ectively shrinks the images
+2. The first layer in the network must be a 4x4 maxpooling layer. This effectively shrinks the images
 from 28x28 to 7x7.
 3. Your program will be tested by training on a fraction of 0.1 of the standard training set. The testing
 data will be the entire standard testing set.
