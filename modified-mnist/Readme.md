@@ -20,3 +20,10 @@ data will be the entire standard testing set.
 
 ### Implementation:
 The images were preprocessed using erosion technique and a residual network was designed for this purpose. The model achieved an accuracy of over 90% in 4 and 1/2 minutes over different training datasets.
+
+### Network Diagram
+
+<p align="center">
+  <img src="https://github.com/manasbundele/computer-vision-projects/blob/master/modified-mnist/network_diagram.png?raw=true">
+</p>
+
